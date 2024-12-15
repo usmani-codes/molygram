@@ -1,0 +1,10 @@
+export { router as auth } from './auth.js'
+export { router as users } from './users.js'
+export { router as posts } from './posts.js'
+export { router as comments } from './ comments.js'
+export { router as tags } from './tags.js'
+
+export { router as followers } from './followers.js'
+export { router as likes } from './likes.js'
+export { router as stories } from './stories.js'
+export { router as storyViews } from './storyViews.js'
